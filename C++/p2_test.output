@@ -1,0 +1,242 @@
+...Good. For True
+...Good. For False
+...Good. For None
+...Good. For {}
+...Good. For []
+...Good. For 1.0
+...Good. For 1
+...Good. For -1
+...Good. For 255
+...Good. For -1
+...Good. For 32767
+...Good. For 32767
+...Good. For 32769
+...Good. For 32768
+...Good. For -1
+...Good. For 65536
+...Good. For 65537
+...Good. For 65535
+...Good. For 2147483647
+...Good. For 4294967296
+...Good. For (1+2j)
+...Good. For 'some string'
+...Good. For ' ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ'
+...Good. For {'a': 1, 'b': 2}
+...Good. For [1, 2, 'three']
+**P2TestFiles/trial0.pi2** Good. True
+**P2TestFiles/trial1.pi2** Good. False
+**P2TestFiles/trial2.pi2** Good. None
+**P2TestFiles/trial3.pi2** Good. {}
+**P2TestFiles/trial4.pi2** Good. []
+**P2TestFiles/trial5.pi2** Good. 1.0
+**P2TestFiles/trial6.pi2** Good. 1
+**P2TestFiles/trial7.pi2** Good. -1
+**P2TestFiles/trial8.pi2** Good. 255
+**P2TestFiles/trial9.pi2** Good. -1
+**P2TestFiles/trial10.pi2** Good. 32767
+**P2TestFiles/trial11.pi2** Good. 32767
+**P2TestFiles/trial12.pi2** Good. 32769
+**P2TestFiles/trial13.pi2** Good. 32768
+**P2TestFiles/trial14.pi2** Good. -1
+**P2TestFiles/trial15.pi2** Good. 65536
+**P2TestFiles/trial16.pi2** Good. 65537
+**P2TestFiles/trial17.pi2** Good. 65535
+**P2TestFiles/trial18.pi2** Good. 2147483647
+**P2TestFiles/trial19.pi2** Good. 4294967296
+**P2TestFiles/trial20.pi2** Good. (1+2j)
+**P2TestFiles/trial21.pi2** Good. 'some string'
+**P2TestFiles/trial22.pi2** Good. ' ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ'
+**P2TestFiles/trial23.pi2** Good. {'a': 1, 'b': 2}
+**P2TestFiles/trial24.pi2** Good. [1, 2, 'three']
+Good. True
+Good. False
+Good. None
+Good. {}
+Good. []
+Good. 1.0
+Good. 1
+Good. -1
+Good. 255
+Good. -1
+Good. 32767
+Good. 32767
+Good. 32769
+Good. 32768
+Good. -1
+Good. 65536
+Good. 65537
+Good. 65535
+Good. 2147483647
+Good. 4294967296
+Good. (1+2j)
+Good. 'some string'
+Good. ' ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ'
+Good. {'a': 1, 'b': 2}
+Good. [1, 2, 'three']
+[[True, '\x88'], [False, '\x89'], [None, 'N'], [{}, '}'], [[], ']'], [1.0, 'G?\xf0\x00\x00\x00\x00\x00\x00'], [1, 'K\x01'], [-1, 'J\xff\xff\xff\xff'], [255, 'K\xff'], [-1, 'J\xff\xff\xff\xff'], [32767, 'M\xff\x7f'], [32767, 'M\xff\x7f'], [32769, 'M\x01\x80'], [32768, 'M\x00\x80'], [-1, 'J\xff\xff\xff\xff'], [65536, 'J\x00\x00\x01\x00'], [65537, 'J\x01\x00\x01\x00'], [65535, 'M\xff\xff'], [2147483647, 'J\xff\xff\xff\x7f'], [4294967296, '\x8a\x08\x00\x00\x00\x00\x01\x00\x00\x00'], [(1+2j), 'c__builtin__\ncomplex\nq\x01G?\xf0\x00\x00\x00\x00\x00\x00G@\x00\x00\x00\x00\x00\x00\x00\x86R'], ['some string', 'U\x0bsome string'], [' ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ', 'T-\x01\x00\x00 ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ'], [{'a': 1, 'b': 2}, '}(U\x01aK\x01U\x01bK\x02u'], [[1, 2, 'three'], '](K\x01K\x02U\x05threee']] [[True, '\x88'], [False, '\x89'], [None, 'N'], [{}, '}'], [[], ']'], [1.0, 'G?\xf0\x00\x00\x00\x00\x00\x00'], [1, 'K\x01'], [-1, 'J\xff\xff\xff\xff'], [255, 'K\xff'], [-1, 'J\xff\xff\xff\xff'], [32767, 'M\xff\x7f'], [32767, 'M\xff\x7f'], [32769, 'M\x01\x80'], [32768, 'M\x00\x80'], [-1, 'J\xff\xff\xff\xff'], [65536, 'J\x00\x00\x01\x00'], [65537, 'J\x01\x00\x01\x00'], [65535, 'M\xff\xff'], [2147483647, 'J\xff\xff\xff\x7f'], [4294967296, '\x8a\x08\x00\x00\x00\x00\x01\x00\x00\x00'], [(1+2j), 'c__builtin__\ncomplex\nq\x01G?\xf0\x00\x00\x00\x00\x00\x00G@\x00\x00\x00\x00\x00\x00\x00\x86R'], ['some string', 'U\x0bsome string'], [' ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ', 'T-\x01\x00\x00 ABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJABCDEFGHIJ'], [{'a': 1, 'b': 2}, '}(U\x01aK\x01U\x01bK\x02u'], [[1, 2, 'three'], '](K\x01K\x02U\x05threee']]
+1
+1
+special1.pythonpi2 [[1, 2, 3], [1, 2, 3]]
+special2.pythonpi2 ['hi', 'hi', 'hihi']
+special3.pythonpi2 [(1+2j), (3+4j)]
+special4.pythonpi2 [(1+2j), (3+4j), [(1+2j), (3+4j), (1+2j), (3+4j)]]
+special5.pythonpi2 {'hi': 'hi', 'l2': [1, 2, 3], 'l1': [1, 2, 3], 'a': 'hi', 'c': [(1+2j), (3+4j), [(1+2j), (3+4j), (1+2j), (3+4j)]]}
+special6.pythonpi2 array([100 1])
+special7.pythonpi2 array([1.1 2.2 3.3])
+special8.pythonpi2 array([1.1 2.2 3.3])
+ARRAYS
+Good.  Dump as List.
+Good.  Dump as Python Array.
+Good.  Dump as Python Numeric Array.
+String '1' becomes value l:1
+--Dump passed.  
+--Load passed. Loaded correctly: 1
+String '2147483647' becomes value l:2147483647
+--Dump passed.  
+--Load passed. Loaded correctly: 2147483647
+String '2147483648' becomes value x:2147483648
+--Dump passed.  
+--Load passed. Loaded correctly: 2147483648
+String '5000000000' becomes value x:5000000000
+--Dump passed.  
+--Load passed. Loaded correctly: 5000000000
+String '9223372036854775807' becomes value x:9223372036854775807
+--Dump passed.  
+--Load passed. Loaded correctly: 9223372036854775807
+String '-1' becomes value l:-1
+--Dump passed.  
+--Load passed. Loaded correctly: -1
+String '-2147483647' becomes value l:-2147483647
+--Dump passed.  
+--Load passed. Loaded correctly: -2147483647
+String '-2147483648' becomes value l:-2147483648
+--Dump passed.  
+--Load passed. Loaded correctly: -2147483648
+String '-2147483649' becomes value x:-2147483649
+--Dump passed.  
+--Load passed. Loaded correctly: -2147483649
+String '-5000000000' becomes value x:-5000000000
+--Dump passed.  
+--Load passed. Loaded correctly: -5000000000
+String '-9223372036854775807' becomes value x:-9223372036854775807
+--Dump passed.  
+--Load passed. Loaded correctly: -9223372036854775807
+String '-9223372036854775808' becomes value x:-9223372036854775808
+--Dump passed.  
+--Load passed. Loaded correctly: -9223372036854775808
+String '-9223372036854775809' becomes value d:-9223372036854775808.0
+--Dump passed.  
+--Load passed. Loaded correctly: -9223372036854775808.0
+String 'array([1 2 3])' becomes value n:array([1 2 3])
+--Dump passed.  
+--ERROR: loader!= sv:[1, 2, 3] array([1 2 3])
+String 'array([1 2 3])' becomes value n:array([1 2 3])
+--Dump passed.  
+--Load passed. Loaded correctly: array([1 2 3])
+String 'array([1])' becomes value n:array([1])
+--Dump passed.  
+--Load passed. Loaded correctly: array([1])
+String 'array([])' becomes value n:array([])
+--Dump passed.  
+--Load passed. Loaded correctly: array([])
+String 'array([1 2 3])' becomes value n:array([1 2 3])
+--Dump passed.  
+--Load passed. Loaded correctly: array([1 2 3])
+String 'array([1])' becomes value n:array([1])
+--Dump passed.  
+--Load passed. Loaded correctly: array([1])
+String 'array([])' becomes value n:array([])
+--Dump passed.  
+--Load passed. Loaded correctly: array([])
+{'a': (1+2j)}
+(1+2j)
+***Trying proxies
+mem_len = 8
+...Good. For [[], []]
+mem_len = 8
+...Good. For [{}, {}]
+mem_len = 10
+...Good. For [{}, {}, {}]
+mem_len = 5
+...Good. For [{}]
+mem_len = 20
+...Good. For [{'a': 1, 'b': 2}, {'a': 1, 'b': 2}]
+mem_len = 14
+...Good. For [{'a': 1}, {'a': 1}]
+mem_len = 28
+...Good. For [array([1.0 0.0]), array([1.0 0.0])]
+Not the same???[[1.0, 0.0], [1.0, 0.0]][array([1.0 0.0]), array([1.0 0.0])]
+mem_len = 64
+...Good. For [array([1.0 0.0]), array([1.0 0.0])]
+mem_len = 66
+...Good. For [array([1.0 0.0]), array([1.0 0.0])]
+mem_len = 45
+...Good. For [array([1.0 0.0]), array([1.0 0.0])]
+mem_len = 64
+...Good. For [array([(1+2j)]), array([(1+2j)])]
+mem_len = 1300
+...Good. For [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+orig:I:7000
+load:l:7000
+orig:S:127
+load:l:127
+orig:S:128
+load:l:128
+orig:S:255
+load:l:255
+orig:S:0
+load:l:0
+orig:s:127
+load:l:127
+orig:s:-128
+load:l:-128
+orig:s:-127
+load:l:-127
+orig:s:-128
+load:l:-128
+orig:s:127
+load:l:127
+cPickle.dumps(Numeric.zeros((1), 'i') reloads as: 
+array([0])
+tag:n l
+cPickle.dumps(Numeric.zeros( (), 'i') reloads as: 
+array([0])
+tag:n l
+new features
+Okay:):
+orig:u:()
+load:u:()
+1
+Okay:K\x01\x85:
+orig:u:(1)
+load:l:1
+0
+ ... we expect this to be a zero because IT DOES NOT work.  We have to rewrite P2 to handle tuples better (this includes 1,2 and 3 element tuples).
+Okay:K\x01K\x02\x86:
+orig:u:(1, 2)
+Okay:K\x01K\x02K\x03\x87:
+orig:u:(1, 2, 3)
+Okay:(K\x01K\x02K\x03K\x04t:
+orig:u:(1, 2, 3, 4)
+load:u:(1, 2, 3, 4)
+1
+Okay:ccollections\x0AOrderedDict\x0Aq\x01]\x85R:
+orig:o:OrderedDict([])
+load:o:OrderedDict([])
+1
+Okay:ccollections\x0AOrderedDict\x0Aq\x01]](U\x01aK\x01ea\x85R:
+orig:o:OrderedDict([('a', 1)])
+load:o:OrderedDict([('a', 1)])
+1
+Okay:ccollections\x0AOrderedDict\x0Aq\x01](](U\x01aK\x01e](U\x01bK\x02ee\x85R:
+orig:o:OrderedDict([('a', 1), ('b', 2)])
+load:o:OrderedDict([('a', 1), ('b', 2)])
+1
+Okay:](ccollections\x0AOrderedDict\x0Aq\x01](](U\x01aK\x01e](U\x01bK\x02ee\x85Rq\x02h\x02e:
+orig:n:[OrderedDict([('a', 1), ('b', 2)]), OrderedDict([('a', 1), ('b', 2)])]
+load:n:[OrderedDict([('a', 1), ('b', 2)]), OrderedDict([('a', 1), ('b', 2)])]
+1
+Okay:(ccollections\x0AOrderedDict\x0Aq\x01]\x85Rq\x02h\x02h\x02h\x02t:
+orig:u:(OrderedDict([]), OrderedDict([]), OrderedDict([]), OrderedDict([]))
+load:u:(OrderedDict([]), OrderedDict([]), OrderedDict([]), OrderedDict([]))
+1

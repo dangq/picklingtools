@@ -1,0 +1,2231 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 5 0 R
+ /F4 7 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+4 0 obj
+% Page dictionary
+<< /Contents 16 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F3': class PDFType1Font 
+5 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 17 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F4': class PDFType1Font 
+7 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page3': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Contents 18 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 19 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Contents 20 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 21 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Contents 22 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R13': class PDFCatalog 
+13 0 obj
+% Document Root
+<< /Outlines 23 0 R
+ /PageLabels 24 0 R
+ /PageMode /UseNone
+ /Pages 15 0 R
+ /Type /Catalog >>
+endobj
+% 'R14': class PDFInfo 
+14 0 obj
+<< /Author ()
+ /CreationDate (D:20130322110312+07'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Java support for PicklingTools: New as of PicklingTools 1.5.0) >>
+endobj
+% 'R15': class PDFPages 
+15 0 obj
+% page tree
+<< /Count 7
+ /Kids [ 4 0 R
+ 6 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R ]
+ /Type /Pages >>
+endobj
+% 'R16': class PDFStream 
+16 0 obj
+% page stream
+<< /Length 1335 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33.64 Tm /F2 20 Tf 24 TL 36.00488 0 Td (Java support for PicklingTools: New as of) Tj T* 108.9 0 Td (PicklingTools 1.5.0) Tj T* -144.9049 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 683.0236 cm
+q
+BT 1 0 0 1 0 16.82 Tm .755984 Tw 12 TL /F1 10 Tf 0 0 0 rg (As of PicklingTools 1.5.0, there is support for Java: this means that Java can handle Python dictionaries) Tj T* 0 Tw (and pickle them into files or sockets.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+Q
+q
+1 0 0 1 62.69291 611.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (What does it means that PicklingTools 1.5.0 supports Java?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.826235 Tw (Short Answer: In general, Java is supported like C++, but since the Java baseline isn't quite as) Tj T* 0 Tw (fleshed out as the C++ baseline, there are some missing features.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Long Answer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R17': class PDFStream 
+17 0 obj
+% page stream
+<< /Length 6182 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 215.4855 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 536.5382 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 543.5382 cm
+Q
+q
+1 0 0 1 20 543.5382 cm
+Q
+q
+1 0 0 1 20 402.3382 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 126.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (a.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 90.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL .989984 Tw (Java can talk to MidasServers using a Java MidasTalker \(i.e., we can have a Java client) Tj T* 0 Tw .389979 Tw (talking to any C++/Python MidasServer or M2k OpalPythonDaemon\). There is currently no) Tj T* 0 Tw .266647 Tw (support for Java MidasServers, Midasyellers or MidasListeners, but that will be available in) Tj T* 0 Tw (a future release. MidasTalker simple example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 393.6898 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 65.71 Tm /F3 10 Tf 12 TL (MidasTalker mt = new MidasTalker\("localhost", 8888\);) Tj T* (mt.open\(\);) Tj T* (mt.send\(new Tab\("{'a':1, 'b':2.2, 'c':'three'}"\);) Tj T* (Object o = mt.recv\(5.0\);  // block upto 5 seconds waiting) Tj T* (Tab result = \(Tab\)o;) Tj T* (result.prettyPrint\(System.out\);  // print as Python dict) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 396.3382 cm
+Q
+q
+1 0 0 1 20 372.3382 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (b.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 2.253828 Tw (Java can read Python dictionaries from files or sockets. See below for examples with) Tj T* 0 Tw (textual and binary \(pickled\) data.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 366.3382 cm
+Q
+q
+1 0 0 1 20 354.3382 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 6.22 0 Td (c.) Tj T* -6.22 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Java can read/write pickled data.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 348.3382 cm
+Q
+q
+1 0 0 1 20 120.0645 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 213.2736 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (d.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 213.2736 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Java can read/write textual Python dictionaries. Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+.958903 0 0 .958903 0 0 cm
+q
+1 0 0 1 6.6 6.882868 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 420 216 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 197.71 Tm /F3 10 Tf 12 TL (import pythonesque.*;) Tj T*  T* (// Create text dictionary from a Python compatible string) Tj T* (Tab t = new Tab\("{'a':1, 'b':2.2, 'c':'three', 'arr':[1,2.2,'t']}"\);) Tj T*  T* (// Write a textual Python dict to a file) Tj T* (Ptools.WritePythonTextFile\("python_dict.txt", t\);) Tj T*  T* (// Read a text Python dictionary from a file) Tj T* (Object o = Ptools.ReadPythonTextFile\("python_dict.txt"\);) Tj T* (Tab res = \(Tab\)o;) Tj T*  T* (// Write a pretty printed textual Python dict to output) Tj T* (res.prettyPrint\(System.out\);) Tj T*  T* (// Write python dict to output \(no extra spaces\)) Tj T* (System.out.println\(res\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 114.0645 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 99.06452 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (e.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 99.06452 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Java can manipulate Python-esque dict and lists. Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+.967742 0 0 .967742 0 0 cm
+q
+1 0 0 1 6.6 6.82 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 408 96 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 77.71 Tm /F3 10 Tf 12 TL (Tab t = new Tab\("{'a':1, 'nest':{'b':2.2, 'c':'three'}"\);) Tj T* (t.put\("newkey", 16\);          // Insert new key at top level) Tj T* (t.put\("nest", "newer", 2.2\);  // Cascading insert into nested dict) Tj T*  T* (Arr a = new Arr\("[10000, 2.2, 'three', [1,2,3]]"\);) Tj T* (int ii = \(Integer\)a.get\(1\);     // get int) Tj T* (int ii = \(Integer\)a.get\(3, 0\);  // get nested int) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 209.4855 cm
+Q
+q
+1 0 0 1 62.69291 167.4855 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Where does the Pickling support come from?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .141647 Tw (The Pyro project released an OpenSource pickling package which PicklingTools 1.5.0 has embraced) Tj T* 0 Tw (and is working with. The Pyro project has a similar license as the PicklingTools.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 161.4855 cm
+Q
+q
+1 0 0 1 62.69291 149.4855 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (How do you handle Python types in Java?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 149.4855 cm
+Q
+q
+1 0 0 1 62.69291 143.4855 cm
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 45.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Directly from the Pyro documentation:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 442.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (Pyrolite does the following type mappings:) Tj T*  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R18': class PDFStream 
+18 0 obj
+% page stream
+<< /Length 5590 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 2.637795 269.5358 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 293.6367 cm
+q
+q
+.761128 0 0 .761128 0 0 cm
+q
+1 0 0 1 6.6 8.671342 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 582 264 re B*
+Q
+q
+BT 1 0 0 1 0 245.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (PYTHON    ----) Tj (>) Tj (     JAVA) Tj T* (------              ----) Tj T* (None                null) Tj T* (bool                boolean) Tj T* (int                 int) Tj T* (long                long or BigInteger  \(depending on size\)) Tj T* (string              String) Tj T* (unicode             String) Tj T* (complex             net.razorvine.pickle.objects.ComplexNumber) Tj T* (datetime.date       java.util.Calendar) Tj T* (datetime.datetime   java.util.Calendar) Tj T* (datetime.time       java.util.Calendar) Tj T* (datetime.timedelta  net.razorvine.pickle.objects.TimeDelta) Tj T* (float               double   \(float isn't used\)) Tj T* (array.array         array of appropriate primitive type \(char, int, short, long, float, double\)) Tj T* (list                java.util.List) Tj (<) Tj (Object) Tj (>) Tj  T* (tuple               Object[]) Tj T* (set                 java.util.Set) Tj T* (dict                java.util.Map) Tj T* (bytes               byte[]) Tj T* (bytearray           byte[]) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20 255.6367 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .358095 Tw (The unpickler simply returns an Object. Because Java is a statically typed language you will have to cast that to the appropriate) Tj T* 0 Tw (type. Refer to this table to see what you can expect to receive.:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+q
+.822167 0 0 .822167 0 0 cm
+q
+1 0 0 1 6.6 8.027567 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 546 300 re B*
+Q
+q
+BT 1 0 0 1 0 281.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (JAVA     ----) Tj (>) Tj (      PYTHON) Tj T* (-----               ------) Tj T* (null                None) Tj T* (boolean             bool) Tj T* (byte                int) Tj T* (char                str/unicode \(length 1\)) Tj T* (String              str/unicode) Tj T* (double              float) Tj T* (float               float) Tj T* (int                 int) Tj T* (short               int) Tj T* (BigDecimal          decimal) Tj T* (BigInteger          long) Tj T* (any array           array if elements are primitive type \(else tuple\)) Tj T* (Object[]            tuple) Tj T* (byte[]              bytearray) Tj T* (java.util.Date      datetime.datetime) Tj T* (java.util.Calendar  datetime.datetime) Tj T* (Enum                the enum value as string) Tj T* (java.util.Set       set) Tj T* (Map, Hashtable      dict) Tj T* (Vector, Collection  list) Tj T* (Serializable        treated as a JavaBean, see below.) Tj T* (JavaBean            dict of the bean's public properties + __class__ for the bean's type.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 269.5358 cm
+Q
+q
+1 0 0 1 62.69291 263.5358 cm
+Q
+q
+1 0 0 1 62.69291 263.5358 cm
+Q
+q
+1 0 0 1 62.69291 203.5358 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Does the Java support Python Object, dict, and list?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Short Answer: Yes and No.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .639269 Tw (PicklingTools wants to make Java programmers as comfortable with native Java types and tools as) Tj T* 0 Tw (much as possible, so choices have been made that tend to fit the Java model. See below.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 197.5358 cm
+Q
+q
+1 0 0 1 62.69291 113.5358 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Is there an equivalent for C++ Val?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Short Answer: No, we use the Java Object instead.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 40.82 Tm 2.241163 Tw 12 TL /F1 10 Tf 0 0 0 rg (There is no equivalent Val in Java: the Val in C++ was required because C++ doesn't have a) Tj T* 0 Tw .43784 Tw (heterogeneous, dynamic container type \(as C++ is very statically typed, and the library predates the) Tj T* 0 Tw 1.328443 Tw (C++ ) Tj /F3 10 Tf (any ) Tj /F1 10 Tf (class\). Java ) Tj /F4 10 Tf (already ) Tj /F1 10 Tf (has a heterogeneous, dynamic container: the ) Tj /F3 10 Tf (Object) Tj /F1 10 Tf (. Most types) Tj T* 0 Tw (inherit from ) Tj /F3 10 Tf (Object) Tj /F1 10 Tf (, and can be cast down from ) Tj /F3 10 Tf (Object ) Tj /F1 10 Tf (to the appropriate type easily.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 107.5358 cm
+Q
+q
+1 0 0 1 62.69291 95.53583 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Is there a Java equivalent for a Python dict?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 83.53583 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 -1 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Yes.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R19': class PDFStream 
+19 0 obj
+% page stream
+<< /Length 6877 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 23 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 28.82 Tm .83284 Tw 12 TL /F1 10 Tf 0 0 0 rg (By default, a Java Tab "is-a" ) Tj /F3 10 Tf (HashMap) Tj (<) Tj (Object, Object) Tj (>) Tj /F1 10 Tf (. So, Tab inherits all the interface from) Tj T* 0 Tw .03686 Tw (HashMap. BUT: Tab extends the interface significantly to make the Java Tab feel much more like the) Tj T* 0 Tw (Python dict.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 321.9891 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 386.0345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (7.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 386.0345 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (What does Tab add to ) Tj /F3 10 Tf (HashMap) Tj (<) Tj (String, Object) Tj (>) Tj /F1 10 Tf (?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 368.0345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Five things.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 362.0345 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 359.0345 cm
+Q
+q
+1 0 0 1 20 359.0345 cm
+Q
+q
+1 0 0 1 20 301.8345 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Less typing. Seriously, which would you rather type?:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 402.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (HashMap) Tj (<) Tj (String, Object) Tj (>) Tj ( m = new HashMap) Tj (<) Tj (String, Object) Tj (>) Tj (\(\);) Tj T* (Tab t = new Tab\(\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 295.8345 cm
+Q
+q
+1 0 0 1 20 201.1173 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 79.71725 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 79.71725 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (The constructor supports creating a literal from a string, i.e.,:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 35 cm
+q
+q
+.987023 0 0 .987023 0 0 cm
+q
+1 0 0 1 6.6 6.686775 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 408 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.71 Tm /F3 10 Tf 12 TL (Tab t = new Tab\("{'a':1, 'somefloat':2.2, 'nest':{'oo':'str'} }"\);) Tj T* (// Constructs same table as above) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 3.87784 Tw (This is exactly the syntax of dictionary literals in Python, so these tables can be) Tj T* 0 Tw (cut-and-pasted between Python and Java.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 195.1173 cm
+Q
+q
+1 0 0 1 20 125.9173 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 54.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .065697 Tw (Supports pretty print that looks EXACTLY like Python dictionaries so you can cut and paste) Tj T* 0 Tw (Python dicts between Python and Java:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 402.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.71 Tm /F3 10 Tf 12 TL (t.prettyPrint\(System.out\);) Tj T* (// overrides toString to System.out.println\(t\) also works) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 119.9173 cm
+Q
+q
+1 0 0 1 20 63.2 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 41.71725 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 41.71725 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Support for cascading lookup:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+.987023 0 0 .987023 0 0 cm
+q
+1 0 0 1 6.6 6.686775 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 408 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.71 Tm /F3 10 Tf 12 TL (Tab t = new Tab\("{'a':1, 'somefloat':2.2, 'nest':{'oo':'str'} }"\);) Tj T* (String s = \(String\)t.get\("nest", "oo"\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 57.2 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Support for cascading insertion:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 402.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.71 Tm /F3 10 Tf 12 TL (Tab t = new Tab\("{'nest':{ 'nest2':{} }"\);) Tj T* (t.put\("nest", "nest2", "value"\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 315.9891 cm
+Q
+q
+1 0 0 1 62.69291 107.5891 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 193.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (8.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 193.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (How do Java Tab interactions compare with Python dicts?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 163.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .064987 Tw (They are similar in many ways. Newer features of Java \(such as boxing and unboxing\) make it a little) Tj T* 0 Tw (easier to get stuff in and out of Tabs. For example, In Python:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 118.2 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 442.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (>) Tj (>) Tj (>) Tj ( a = { 'a': 1 }) Tj T* (>) Tj (>) Tj (>) Tj ( a['b'] = 17.7) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 92.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (The equivalent in Java:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 35 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 442.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.71 Tm /F3 10 Tf 12 TL (Tab a = new Tab\("{'a':1}"\);) Tj T* (a.put\("b", 17.7\);             // Because of boxing, don't have to type) Tj T* (                              // a.put\("b", new Double\(17.7\)\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .94229 Tw (Overloading and variable number of arguments make it easier to represent cascading lookups and) Tj T* 0 Tw (inserts. In Python:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R20': class PDFStream 
+20 0 obj
+% page stream
+<< /Length 6055 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 522.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 229.4 Tm  T* ET
+q
+1 0 0 1 23 154.2 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 442.6898 84 re B*
+Q
+q
+BT 1 0 0 1 0 65.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (>) Tj (>) Tj (>) Tj ( t = {'nest':{'a':1} }) Tj T* (>) Tj (>) Tj (>) Tj ( lookup =  t['nest']['a']    # Cascading Lookup) Tj T* (>) Tj (>) Tj (>) Tj ( print lookup                # output: 1) Tj T*  T* (>) Tj (>) Tj (>) Tj ( t['nest']['a'] = 777        # Cascading insert) Tj T* (>) Tj (>) Tj (>) Tj ( print t                     # output: { 'nest': {'a': 777} }) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 128.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (In Java:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 35 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 65.71 Tm /F3 10 Tf 12 TL (Tab t = new Tab\("{'nest': {'a':1}}"\);) Tj T* (Object lookup = t.get\("nest", "a"\);   // Cascading lookup) Tj T* (System.out.println\(lookup\);           // output: 1) Tj T*  T* (t.put\("nest", "a", 777\);              // Cascading insertin) Tj T* (System.out.println\(t\);                // output: { 'nest': {'a': 777 } }) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .136457 Tw (Note that Java uses double quotes \(""\) for strings and Python can use both single and double quotes) Tj T* 0 Tw (\("", ''\) for strings. In general, it's easier to type single quotes inside the literal string of the Tab.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 516.6236 cm
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 288.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (9.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 288.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (How do we get types out of Java?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 270.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Use the type-casting of Java. For example, to get a nested Tab from another Tab:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 213.4 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.71 Tm /F3 10 Tf 12 TL (Tab t = new Tab\("{'a':1, 'b':2.2, 'c':'three', 'nest':{} }"\);) Tj T* (Object o = t.get\("nest"\);) Tj T* (Tab nest = \(Tab\)o;) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 187.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Or, a little less typing:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 142.2 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.71 Tm /F3 10 Tf 12 TL (Tab t = new Tab\("{'a':1, 'b':2.2, 'c':'three', 'nest':{} }"\);) Tj T* (Tab nest = \(Tab\)t.get\("nest"\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 104.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .834692 Tw (With unboxing, getting POD types like int and floats out isn't quite perfect: they have to go through) Tj T* 0 Tw (the Object version. For example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 47 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.71 Tm /F3 10 Tf 12 TL (int i = \(int\)t.get\("a"\);      // SYNTAX ERROR: too much unboxing to do) Tj T*  T* (int i = \(Integer\)t.get\("a"\);  // Okay, unboxing helps) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .916457 Tw (So, primitive types can work, but do require a cast. \(C++ gets around this extra cast because C++) Tj T* 0 Tw 1.055697 Tw (supports a language feature called user-defined conversion\). This isn't ideal, but it is a reasonably) Tj T* 0 Tw (small amount of typing.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 207.0236 cm
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL .1 0 Td (10.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Is there an equivalent for a Python list?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Yes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 16.82 Tm .444983 Tw 12 TL /F1 10 Tf 0 0 0 rg (By default, an Arr "is-a" ) Tj /F3 10 Tf (ArrayList) Tj (<) Tj (Object) Tj (>) Tj /F1 10 Tf (. So, Arr inherits all the interface from ArrayList. BUT:) Tj T* 0 Tw (Arr extends the interface significantly to make the Java Arr feel much more like the Python list.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 49.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL .1 0 Td (11.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 49.15748 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (What does Arr add to ) Tj /F3 10 Tf (ArrayList) Tj (<) Tj (Object) Tj (>) Tj /F1 10 Tf (?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 19.15748 cm
+q
+BT 1 0 0 1 0 16.82 Tm .558221 Tw 12 TL /F1 10 Tf 0 0 0 rg (Five Things. The Arr adds some features to the ArrayList that make it easier to manipulate. The Arr) Tj T* 0 Tw ("is-a" ArrayList) Tj (<) Tj (Object) Tj (> so it still supports all the same methods, as well as:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 13.15748 cm
+Q
+q
+1 0 0 1 23 1.15748 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R21': class PDFStream 
+21 0 obj
+% page stream
+<< /Length 6250 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 431.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 321 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 276.8 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Less typing:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 393.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (ArrayList) Tj (<) Tj (Object) Tj (>) Tj ( a = new ArrayList) Tj (<) Tj (Object) Tj (>) Tj (\(\);) Tj T* (Arr a = new Arr\(\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 270.8 cm
+Q
+q
+1 0 0 1 20 213.6 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .681647 Tw (Support for string literals, where string literals can be cut-and-paste directly between Java) Tj T* 0 Tw (and Python:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 399.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (Arr a = new Arr\("[1, 2.2, 'three', [44]]"\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 207.6 cm
+Q
+q
+1 0 0 1 20 126.4 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 66.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 54.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .065697 Tw (Supports pretty print that looks EXACTLY like Python dictionaries so you can cut and paste) Tj T* 0 Tw (Python dicts between Python and Java:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 399.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.71 Tm /F3 10 Tf 12 TL (Arr a = new Arr\("[1, 2.2, 'three', [44]]"\);) Tj T* (a.prettyPrint\(System.out\);) Tj T* (// overrides toString to System.out.println\(a\) also works) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 120.4 cm
+Q
+q
+1 0 0 1 20 63.2 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Supports cascading lookups in nested Arr/Tab:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 399.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (a.get\(3, 0\);) Tj T* (//  --) Tj (>) Tj ( gets 44 from nested array) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 57.2 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Supports cascading inserts into nested Arr/Tab:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 399.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (a.put\(3, 0, 777\);) Tj T* (// --) Tj (>) Tj ( results in [1, 2.2, 'three', [777]]) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 425.0236 cm
+Q
+q
+1 0 0 1 62.69291 85.42362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 324.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL .1 0 Td (12.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 324.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (How do Java Arr interactions compare with Python lists?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 294.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .173735 Tw (Like Tabs, boxing and unboxing make it easier to deal with heterogeneous types in Java. Consider a) Tj T* 0 Tw (Python list:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 249.4 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 442.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (>) Tj (>) Tj (>) Tj ( a = [1, 2.2, 'three']) Tj T* (>) Tj (>) Tj (>) Tj ( a.append\(6\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 223.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Similarly in Java:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 166.2 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 442.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.71 Tm /F3 10 Tf 12 TL (Arr a = new Arr\("[1, 2.2, 'three']"\);) Tj T* (a.add\(6\);        // Because of boxing, don't have to do) Tj T* (                 //    a.add\(new Integer\(6\)\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 116.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL 1.483318 Tw (Overloading get and put, along with Java supporting a variable number of arguments \(as well as) Tj T* 0 Tw .259984 Tw (boxing/unboxing\) make cascading gets and puts \(that Python deals with so easily\) easy to deal with.) Tj T* 0 Tw (Consider Python:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 23 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 442.6898 84 re B*
+Q
+q
+BT 1 0 0 1 0 65.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (>) Tj (>) Tj (>) Tj ( aa = [ 5, 6, [10, 11] ]) Tj T* (>) Tj (>) Tj (>) Tj ( lookup =  aa[2][0]     # Cascading lookup: 10) Tj T* (>) Tj (>) Tj (>) Tj ( print lookup) Tj T*  T* (>) Tj (>) Tj (>) Tj ( aa[2][0] = 100     # Cascading inserts: [5,6, [100,11]) Tj T* (>) Tj (>) Tj (>) Tj ( print aa) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (In Java, the equivalent is:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R22': class PDFStream 
+22 0 obj
+% page stream
+<< /Length 5012 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 679.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 72.2 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 442.6898 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 65.71 Tm /F3 10 Tf 12 TL (Arr aa = new Arr\("[5,6, [10,11]]"\);) Tj T* (Object lookup = aa.get\(2,0\);    // Cascading lookup) Tj T* (System.out.println\(lookup\);) Tj T*  T* (aa.put\(2, 0, 100\);              // Cascading insert: [5,6, [100,11]) Tj T* (System.out.println\(aa\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 673.8236 cm
+Q
+q
+1 0 0 1 62.69291 643.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL .1 0 Td (13.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Is there support for Tuples and OTabs?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Tuples: yes, limited. This will be expanded in a later version. OTab. No. May be added later.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 637.8236 cm
+Q
+q
+1 0 0 1 62.69291 397.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL .1 0 Td (14.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (What's missing?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (There's still some development to do.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 201 cm
+Q
+q
+1 0 0 1 23 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 168 cm
+Q
+q
+1 0 0 1 20 168 cm
+Q
+q
+1 0 0 1 20 144 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 2.04152 Tw (No MidasServer. This is currently no MidasServer like in C++/Python there is only the) Tj T* 0 Tw (client.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (No Numeric or NumPy support. The original Pyrolite dist. only supported Python Arrays.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 120 cm
+Q
+q
+1 0 0 1 20 96 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 2.046136 Tw (No "shared" data structures. The pytolite dist. did not implement the get/put feature of) Tj T* 0 Tw (pickling which allows dictionaries to be shared \(i.e., only deep copies are made\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .156905 Tw (No Unicode support. The C++/Python tools were developed to work with Python 2.x series,) Tj T* 0 Tw .125814 Tw (where strings where ASCII. The unicode support for PTOOLS is non-existant currently: this) Tj T* 0 Tw (is a PTOOLS problem, not a Java problem.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (No byte array support. It becomnes unicode, which \(4\) can't handle.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Can't read textual arrays. Cannot currently read arrays from strings or files.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (7.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (No MidasYeller or MidasListener.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.516098 Tw (These are the major missing pieces, which we will flesh out as people need them. This is a first) Tj T* 0 Tw (release to get the basic functionality out the door so we can get feedback.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 397.8236 cm
+Q
+ 
+endstream
+
+endobj
+% 'R23': class PDFOutlines 
+23 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R24': class PDFPageLabels 
+24 0 obj
+% Document Root
+<< /Nums [ 0
+ 25 0 R
+ 1
+ 26 0 R
+ 2
+ 27 0 R
+ 3
+ 28 0 R
+ 4
+ 29 0 R
+ 5
+ 30 0 R
+ 6
+ 31 0 R ] >>
+endobj
+% 'R25': class PDFPageLabel 
+25 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R26': class PDFPageLabel 
+26 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R27': class PDFPageLabel 
+27 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R28': class PDFPageLabel 
+28 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R29': class PDFPageLabel 
+29 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R30': class PDFPageLabel 
+30 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R31': class PDFPageLabel 
+31 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+xref
+0 32
+0000000000 65535 f
+0000000113 00000 n
+0000000245 00000 n
+0000000410 00000 n
+0000000583 00000 n
+0000000864 00000 n
+0000001023 00000 n
+0000001304 00000 n
+0000001483 00000 n
+0000001762 00000 n
+0000002041 00000 n
+0000002321 00000 n
+0000002601 00000 n
+0000002882 00000 n
+0000003041 00000 n
+0000003311 00000 n
+0000003469 00000 n
+0000004905 00000 n
+0000011188 00000 n
+0000016879 00000 n
+0000023857 00000 n
+0000030013 00000 n
+0000036364 00000 n
+0000041479 00000 n
+0000041562 00000 n
+0000041733 00000 n
+0000041810 00000 n
+0000041887 00000 n
+0000041964 00000 n
+0000042041 00000 n
+0000042118 00000 n
+0000042195 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(:&\254\341[+\340c}E\216v5x\325#) (:&\254\341[+\340c}E\216v5x\325#)] 
+
+ /Info 14 0 R
+ /Root 13 0 R
+ /Size 32 >>
+startxref
+42242
+%%EOF
